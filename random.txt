@@ -1,7 +1,4 @@
-{
-  "developer": "@Boboiboyturu",
-  "status": 200,
-  "result": [
+
 "https://iili.io/JKvMvst.md.jpg",
 "https://iili.io/JKvMU1n.md.jpg",
 "https://iili.io/JKvMkXI.md.jpg",
@@ -988,5 +985,3 @@
 "https://i.ibb.co/7pLFGQP/DSC9618.png",
 "https://i.ibb.co/C73NF3m/DSC9639.png",
 "https://i.ibb.co/28smK9t/DSC9645.png"
-]
-}
